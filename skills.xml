@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<skill to learn_1>Testing Theory, SDLC, STLC</skill to learn_1>
+	<skill to learn_2>Clien-server</skill to learn_2>
+	<skill to learn_3>JSON, XML. Structure</skill to learn_3>
+	<skill to learn_4>API Postman (JS, autotest API)</skill to learn_4>
+	<skill to learn_5>Charles and Fiddler.</skill to learn_5>
+	<skill to learn_6>Dev Tools(Google Chrome, FireFox)</skill to learn_6>
+	<skill to learn_7>Mobile testing</skill to learn_7>
+	<skill to learn_8>Android Studio</skill to learn_8>
+	<skill to learn_9>terminal Linux</skill to learn_9>
+	<skill to learn_10>SQL</skill to learn_10>
+	<skill to learn_11>DB Postgres</skill to learn_11>
+	<skill to learn_12>Load testing Jmeter</skill to learn_12>
+</root>
